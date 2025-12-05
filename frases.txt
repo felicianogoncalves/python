@@ -1,4 +1,0 @@
-linha1: python é divertido
-linha2: aprender ficheiros é útil
-linha3: AWS
-linha4: @cesae
